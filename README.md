@@ -1,3 +1,5 @@
+[view live](https://jordinodejs.github.io/learning-tailwind-lesson-1/)
+
 # template-vite-js-tailwind-v3
 
 - **template of:** vite + vanilaJS
